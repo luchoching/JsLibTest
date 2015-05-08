@@ -1,0 +1,16 @@
+{
+  "name": "js-lib-test",
+  "version": "0.0.0",
+  "description": "test js libs i need to use",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha --reporter spec"
+  },
+  "author": "Lu Cho-Ching",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^2.3.0",
+    "jade": "^1.9.2",
+    "mocha": "^2.2.4"
+  }
+}
