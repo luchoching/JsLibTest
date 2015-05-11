@@ -11,6 +11,8 @@
   "dependencies": {
     "chai": "^2.3.0",
     "jade": "^1.9.2",
+    "js-yaml": "^3.3.0",
+    "marked": "^0.3.3",
     "mocha": "^2.2.4"
   }
 }
